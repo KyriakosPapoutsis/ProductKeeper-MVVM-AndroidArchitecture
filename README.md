@@ -75,7 +75,7 @@ Below are selected screenshots from the **ProductKeeper** app, showcasing its ma
 
 ### 🔐 Sign In & Register
 <p align="center">
-  <img src="screenshots/signin.jpg" width="200" />
+  <img src="screenshots/sigin.jpg" width="200" />
   <img src="screenshots/signin-invalidpassword.jpg" width="200" />
   <img src="screenshots/signin-usedemail.jpg" width="200" />
   <img src="screenshots/registration.jpg" width="200" />
